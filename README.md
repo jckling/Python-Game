@@ -10,14 +10,14 @@
 * 点哪往哪里射击，主要用了数学的运算求正切计算旋转角度，因为子弹是自己画的图，贴图的时候用的是左上角，所以有些角度射击时，弹道会有点偏移
 * 玩家有三种技能，每次消灭敌机都会积攒能量，每种能量积攒速度不同，随着等级的提高玩家子弹速度变快，敌机下落速度也变快，当然敌机种类也会增加
 * 子弹击中敌机和敌机炸毁带了一点点特效，反正也就是随机位置画图持续一会儿的事儿
-<br>*运行截图*<br><br>
+<br><br>*运行截图*<br><br>
 ![relation](https://github.com/jckling/Python-Game/blob/master/Report%20Images/1.png)
 <br><br>
 
 ## 卷轴跑酷游戏
 * 看多了会晕乎，大概是背景图太精致(?)
 * 只有简单的↑键操作，随着距离的增加速度将会变快，游戏中还可以收集金币（但没什么用处），总觉得挺没意思的…
-<br>*运行截图*<br><br>
+<br><br>*运行截图*<br><br>
 ![relation](https://github.com/jckling/Python-Game/blob/master/Report%20Images/2.png)
 <br><br>
 
@@ -25,6 +25,6 @@
 * 大概一整个下午就写出来了，躲避随机而来的方块
 * 方块有不同的速度以及不同的分裂次数，方块的移动和分裂只有四个方向，虽然想写八方向的但四方向已经很难玩了
 * 毕竟是一个很好看的游戏，运行着看久了也会入迷的
-<br>*运行截图*<br><br>
+<br><br>*运行截图*<br><br>
 ![relation](https://github.com/jckling/Python-Game/blob/master/Report%20Images/3.png)
 <br><br>
